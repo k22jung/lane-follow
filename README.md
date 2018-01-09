@@ -21,7 +21,7 @@ You must build OpenCV with extra modules, following these [instructions](https:/
 
 ## Running
 
-This is an Eclipse project, you may simply compile it or use `make` in the `Debug` folder.
+This is an Eclipse project, you may simply compile it.
 
 
 
