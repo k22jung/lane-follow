@@ -10,6 +10,10 @@
 
 More details of how these components work together may be found in the commented source file. Some fine-tuning is still required to account for all test cases.
 
+<p align="center"> 
+<img src="https://github.com/k22jung/lane-follow/blob/master/samples/sample_yellow.png">
+</p>
+
 The videos are from [Udacity's Lane Finding Project for Self-Driving Car ND](https://github.com/udacity/CarND-LaneLines-P1).
  
 
