@@ -2,7 +2,7 @@
 
 **Lane-Following** is a program for detecting lane markers on a road to calculate the alignment of the road with a vehicle. The tools and algorithms used are as follows:
 
-* Color filters
+* Color Filters
 * Gaussian Blur
 * Canny Edge Detector
 * Selecting a Region of Interest
